@@ -43,6 +43,9 @@ body {
 .usercard {
     text-align: center;
 }
+.usercard p {
+    text-color: #000000;
+}
 /*
 var(--tg-theme-bg-color)
 var(--tg-theme-text-color)
